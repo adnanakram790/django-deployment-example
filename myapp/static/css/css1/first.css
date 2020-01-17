@@ -1,0 +1,41 @@
+h1{
+    color:white;
+}
+    
+.blan{
+    width:200px;
+}
+.sub{
+    width:100px;
+}
+.nav1{
+
+    height:120px; 
+    position: fixed;
+    z-index:2;
+}
+.search{
+    margin-top:50px;
+    width:270px;
+    height:40px;
+}
+.unav1{
+   padding-top: 100px;
+}
+a{
+    color:blue;
+}
+.indcar{
+    margin-top: 200px;
+}
+.img1{
+     background : url("/static/Images/bg4.jpeg");
+     background-repeat: no-repeat;
+    width:100%;
+    height:auto ;
+    z-index: -1;
+    background-size: cover;
+    background-attachment:fixed;
+    
+    
+ } 
